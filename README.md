@@ -10,3 +10,4 @@ as well as compare the state of an application against a fresh installation.
 
 * [Ruby on Rails 7.0.8.4](./rails-7.0.8.4) : A vanilla Ruby on Rails 7.0.8.4 setup.
 * [Ruby on Rails 7.0.8.4 - RSpec](./rails-7.0.8.4-rspec) : Ruby on Rails 7.0.8.4 with RSpec configured
+* [Ruby on Rails 7.0.8.4 - Cucumber](./rails-7.0.8.4-cucumber) : Ruby on Rails 7.0.8.4 with Cucumber configured
